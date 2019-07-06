@@ -1,0 +1,129 @@
+html {
+    background: #121419;
+}
+body {
+    background: default;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #982633;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: auto;
+    padding: 1em 1em 1em;   
+}
+
+.row.content {height: 480px}    
+
+.sidenav {height: 95%;}
+
+.sidenav >ul>li>a{
+    color: #181d18;
+    background-color: #ced6ce;
+    margin-top: 10px;
+}
+.bosluk{
+
+}
+
+footer {
+    padding: 15px;
+}
+.container-fluid > .navbar-header > .navbar-brand{
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 8px;
+
+}
+.yesillik{
+    background-color: green;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.navbar-footer > p{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+
+/*code alanı ubuntu-tr.net adresinden uyarlanmistir */
+.code_alan {
+    display: block;
+    font-family: "Ubuntu Mono", "monaco", "lucida console", "courier new", monospace;
+    font-size: 13px;
+    background: #f5f5f5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    line-height: 1.5em;
+    margin-bottom: 0.5em;
+    padding: 2px 1em;
+    overflow: auto;
+    white-space: nowrap;
+    max-height: 12em;
+}
+/*code alanı ubuntu-tr.net adresinden uyarlanmistir */
+.code_alan_zafiyet{
+    display: block;
+    font-family: "Ubuntu Mono", "monaco", "lucida console", "courier new", monospace;
+    font-size: 10px;
+    background: #f5f5f5;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    line-height: 1.5em;
+    margin-bottom: 0.5em;
+    padding: 2px 1em;
+    overflow: auto;
+    white-space: nowrap;
+    max-height: 16em;
+}
+
+.adimlar{
+    font-family: "Ubuntu Mono", "monaco", "lucida console", "courier new", monospace;
+    font-size: 16px;
+}
+
+.adim{
+
+    font-family: "Ubuntu Mono", "monaco", "lucida console", "courier new", monospace;
+    font-size: 13px;
+    margin-bottom: 1em;
+    padding-top: 0.5em;
+    margin-top: 0.5em;
+
+
+}
+
+.zafiyet{
+
+}
+
+.somuru{
+
+
+}
+
+.kosul{
+    color: #800000;
+    font-weight: bold;
+}
+
+.stmet{
+    color: #F4A460;
+
+}
+
+.ouec{
+    color: #4682B4;
+    font-weight: bold;
+}
+.fonk{
+    color: #32CD32;
+}
